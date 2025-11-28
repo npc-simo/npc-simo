@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-# Hey there! 👋
 
-I'm **Mohammed Elhajji**, a Web & Mobile Development student at the Higher School of Technology of Nador (EST Nador).
+I'm Simo, a Web & Mobile Development student at the Higher School of Technology of Nador (EST Nador).
 
 I love building apps, learning new technologies, and improving my skills step by step.  
 Currently, I'm exploring **Flutter**, **Laravel**, and **full-stack development**.
